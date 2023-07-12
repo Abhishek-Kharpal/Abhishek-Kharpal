@@ -9,8 +9,8 @@
 
 - Electronics and Computer Engineer from TIET'23 with GPA: 9.17.
 - Worked with Mckinsey & Company as a Software Engineering Intern for 6 months.
-- Currently working with React, Next.js, Express.js, Node.js, Prisma, PostgreSQL, TypeScript and JavaScript.
-- Have previously worked with C++, Python, Django, SQLite.
+- Currently working with React, Next.js, Express.js, Node.js, Prisma, PostgreSQL, Jest, TypeScript and JavaScript.
+- Have previously worked with C++, Python, Django, Sequelize.
 - Looking for opportunities in Software Development and Web Development.
 
 <hr/>
