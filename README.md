@@ -10,7 +10,7 @@
 - Electronics and Computer Engineer from TIET'23 with GPA: 9.17.
 - Currently working as a Software Engineer at Devtron.
 - Previously with Mckinsey & Company as a Software Engineering Intern for 6 months.
-- Have worked with React, Next.js, Express.js, Node.js, Prisma, PostgreSQL, Jest, TypeScript and JavaScript.
+- Currently working with React, Next.js, Express.js, Node.js, Prisma, PostgreSQL, Jest, TypeScript and JavaScript.
 - Have previously worked with C++, Python, Django, Sequelize.
 - Looking forward to collaborate in Software and Web Development.
 
