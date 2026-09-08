@@ -16,8 +16,4 @@
 <hr/>
 
 ### Some stats about me
-
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Kharpal&count_private=true&show_icons=true&theme=radical" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Kharpal&theme=radical" />
-</div>
+[![Abhishek's Stats](https://github-stats-extended.vercel.app/api?username=Abhishek-Kharpal)](https://github.com/stats-organization/github-stats-extended)
